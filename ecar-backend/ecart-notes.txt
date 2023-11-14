@@ -1,0 +1,18 @@
+                            Backend for ecart
+
+                          Node server creation
+                        -------------------------
+            
+        1.Create a new folder in the Ecart
+
+
+                        mongodb Atlas configuration
+                    ---------------------------------
+        6.Add connection string to .env file
+        7.Create a connection.js file for connect node and mongodb
+        8. Use mongoose to connect mongodb with node application
+        9.import connection.js in index.js
+        10.Create model/collection to store products-model/productSchema.js and export it 
+        11.// to define routes for client requests - routes/router.js
+        12. To create controller folder inorder to define the logic to resolve the API requests
+        
